@@ -1,0 +1,15 @@
+D:\projetos\taskME\bin\Debug\net7.0\taskME.exe
+D:\projetos\taskME\bin\Debug\net7.0\taskME.deps.json
+D:\projetos\taskME\bin\Debug\net7.0\taskME.runtimeconfig.json
+D:\projetos\taskME\bin\Debug\net7.0\taskME.dll
+D:\projetos\taskME\bin\Debug\net7.0\taskME.pdb
+D:\projetos\taskME\obj\Debug\net7.0\taskME.csproj.AssemblyReference.cache
+D:\projetos\taskME\obj\Debug\net7.0\taskME.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\taskME\obj\Debug\net7.0\taskME.AssemblyInfoInputs.cache
+D:\projetos\taskME\obj\Debug\net7.0\taskME.AssemblyInfo.cs
+D:\projetos\taskME\obj\Debug\net7.0\taskME.csproj.CoreCompileInputs.cache
+D:\projetos\taskME\obj\Debug\net7.0\taskME.dll
+D:\projetos\taskME\obj\Debug\net7.0\refint\taskME.dll
+D:\projetos\taskME\obj\Debug\net7.0\taskME.pdb
+D:\projetos\taskME\obj\Debug\net7.0\taskME.genruntimeconfig.cache
+D:\projetos\taskME\obj\Debug\net7.0\ref\taskME.dll
